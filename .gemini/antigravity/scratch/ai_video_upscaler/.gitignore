@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# AI model weights
+weights/
+*.pth
+*.pt
+*.onnx
+*.pb
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Test cache
+.pytest_cache/
+.cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Output directories
+output/
+frames/
